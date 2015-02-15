@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="barcos_array">
+        <item>1 casilla</item>
+        <item>2 casillas</item>
+        <item>3 casillas</item>
+        <item>4 casillas</item>
+    </string-array>
+    <string-array name="orientacion_array">
+        <item>horizontal</item>
+        <item>vertical</item>
+    </string-array>
+    
+</resources>

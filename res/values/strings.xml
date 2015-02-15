@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCBattleShip</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="info"></string>
+    <string name="go">Goo!!</string>
+    <string name="volver">Volver a Jugar</string>
+    <string name="salir">Salir</string>
+    <string name="ver">Ver Mapa Propio</string>
+    <string name="continuar">Continuar</string>
+    <string name="contabilizar">Contabilizar Barcos</string>
+    <string name="title_activity_colocar_barco">ColocarBarcoActivity</string>
+    <string name="error_gener">Se ha producido un error sin identificar</string>
+
+</resources>
